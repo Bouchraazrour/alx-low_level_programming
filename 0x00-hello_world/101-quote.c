@@ -1,5 +1,6 @@
 #include <stdio.h>
 #include <unistd.h>
+#include <stdlib.h>
 /**
  * main - A program that print a line without using the NAME section of the man
  * Return: 1 (Success)
