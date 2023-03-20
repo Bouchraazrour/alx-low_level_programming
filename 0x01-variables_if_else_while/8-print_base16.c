@@ -3,7 +3,7 @@
  * main - A program that print all the numbers of base 16
  * Return: 0 (Success)
  */
-int main (void)
+int main(void)
 {
 	int num;
 	char letter;
