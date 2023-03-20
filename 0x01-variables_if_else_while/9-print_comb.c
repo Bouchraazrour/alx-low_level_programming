@@ -1,6 +1,6 @@
 #include <stdio.h>
 /**
- * main - A program that prints all possible combinations 
+ * main - A program that prints all possible combinations
  * Return: 0 (Success)
  */
 int main(void)
