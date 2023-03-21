@@ -1,18 +1,19 @@
 #include "main.h"
+#include <stdio.h>
 /**
  * main - a program that prints _putchar followed by new line
  * Return: 0 (Success)
  */
 int main(void)
 {
-	char *sh = "_putchar";
-
-	while (*sh)
-	{
-		_putchar(*sh);
-		sh++;
-	}
-	_putchar('\n');
-
+	putchar('_');
+	putchar('p');
+	putchar('u');
+	putchar('t');
+	putchar('c');
+	putchar('h');
+	putchar('a');
+	putchar('r');
+	putchar('\n');
 	return (0);
 }
