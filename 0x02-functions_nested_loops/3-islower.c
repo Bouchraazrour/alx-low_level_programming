@@ -1,4 +1,4 @@
-#include "main.c"
+#include "main.h"
 /**
  * _islowe -  a function that checks for lowercase character
  * Return: 0 (Success)
